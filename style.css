@@ -1,7 +1,7 @@
 table, th, td{
-    border-color: blue;
-    color:red;
-    background-color: cyan;
+    border-color: rgb(113, 14, 88);
+    color:rgb(132, 190, 46);
+    background-color: rgb(21, 99, 99);
     
 }
 img {
@@ -15,6 +15,27 @@ img {
 h1{
     color: palegreen;
 }
-body{
-    background-color: lightsalmon;
-}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .body1{
+    background-color: salmon;
+  }
+  .body2{
+    background-color: orangered;
+  }
+  .body3{
+    background-color: blueviolet;
+  }
+  .body4{
+    background-color: darkolivegreen;
+  }
+  .body5{
+    background-color: olive;
+  }
+  .body6{
+    background-color: darkmagenta;
+  }
